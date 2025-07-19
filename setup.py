@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="pystringutils",
+    name="pystringtoolkit",
     version="0.1.0",
     author="Raees Fatima",
     description="Handy string utilities for Python",
