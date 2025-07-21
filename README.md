@@ -1,15 +1,25 @@
-# PyStringUtils
+# PyStringToolkit
 
-Simple Python library with handy string utilities like:
+[![PyPI version](https://badge.fury.io/py/pystringutils.svg)](https://pypi.org/project/pystringutils/)
+[![Downloads](https://static.pepy.tech/badge/pystringutils)](https://pepy.tech/project/pystringutils)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+A simple Python library providing handy string manipulation utilities.
+
+## Features
 - `to_snake_case()`
 - `to_camel_case()`
-- `to_upper_case()`
-- `to_lower_case()`
 - `to_pascal_case()`
 - `to_kebab_case()`
+- `to_upper_case()`
+- `to_lower_case()`
 
-## Installation
+---
+
+## Installation  
+```bash
 pip install pystringutils
+
 ## Example
 ```python
 from pystringutils import to_snake_case
