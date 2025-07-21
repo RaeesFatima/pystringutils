@@ -1,7 +1,7 @@
 # PyStringToolkit
 
-[![PyPI version](https://badge.fury.io/py/pystringutils.svg)](https://pypi.org/project/pystringutils/)
-[![Downloads](https://static.pepy.tech/badge/pystringutils)](https://pepy.tech/project/pystringutils)
+[![PyPI version](https://badge.fury.io/py/pystringtoolkit.svg)](https://pypi.org/project/pystringtoolkit/)
+[![Downloads](https://static.pepy.tech/badge/pystringtoolkit)](https://pepy.tech/project/pystringtoolkit)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A simple Python library providing handy string manipulation utilities.
