@@ -19,8 +19,7 @@ A simple Python library providing handy string manipulation utilities.
 ## Installation  
 ```bash
 pip install pystringutils
-
----
+```
 
 ## Example
 ```python
