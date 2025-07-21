@@ -20,6 +20,8 @@ A simple Python library providing handy string manipulation utilities.
 ```bash
 pip install pystringutils
 
+---
+
 ## Example
 ```python
 from pystringutils import to_snake_case
