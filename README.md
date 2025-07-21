@@ -18,7 +18,7 @@ A simple Python library providing handy string manipulation utilities.
 
 ## Installation  
 ```bash
-pip install pystringutils
+pip install pystringtoolkit
 ```
 
 ## Example
