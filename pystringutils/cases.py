@@ -23,4 +23,5 @@ def to_camel_case(str):
     str=str.title().replace(' ','')
     return str[0].lower() + str[1:]
 
-print(to_snake_case("RAEES fatima!!!!!"))
+def to_title_case(str):
+    return str.title()
