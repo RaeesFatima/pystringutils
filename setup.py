@@ -13,9 +13,9 @@ setup(
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
     ],
-    url="https://github.com/RaeesFatima/pystringutils",
+    url="https://github.com/RaeesFatima/pystringtoolkit",
     project_urls={
-        "Source": "https://github.com/RaeesFatima/pystringutils",
-        "Bug Tracker": "https://github.com/RaeesFatima/pystringutils/issues",
+        "Source": "https://github.com/RaeesFatima/pystringtoolkit",
+        "Bug Tracker": "https://github.com/RaeesFatima/pystringtoolkit/issues",
     },
 )
