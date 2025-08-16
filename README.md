@@ -50,3 +50,8 @@ pip install pystringtoolkit
 from pystringutils import to_snake_case
 
 print(to_snake_case("Hello World!"))  # hello_world
+```
+## Contribution guide
+ You can find the contribution guide here to contribute in this project.
+[Contribution Guide](CONTRIBUTING.md) 
+Thanks
