@@ -36,6 +36,17 @@ Helpful tools for generating and formatting text:
 - `slugify()` → Converts text into URL-friendly slugs (`"Hello World!" → "hello-world"`)
 - `random_string(length)` → Generates a random alphanumeric string of a given length
 
+### 📧 Email Validation
+The `is_email()` function validates if a string is a properly formatted email address:
+
+```python
+from pystringtoolkit.validators import is_email
+
+# Check if string is valid email
+is_email("user@example.com")  # Returns True
+is_email("invalid.email@")    # Returns False
+```
+
 ---
 
 ## 📦 Installation  
