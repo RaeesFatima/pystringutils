@@ -20,7 +20,7 @@ Transform strings between common naming conventions:
 - `to_upper_case()` → Converts all letters to uppercase
 - `to_lower_case()` → Converts all letters to lowercase
 - `to_title_case()` → Capitalizes the first letter of each word
-
+- `to_alternating_case()` →  alternates uppercase and lowercase characters in a string
 ### 🧹 Text Cleaning Functions
 Remove unwanted characters and normalize formatting:
 
@@ -37,15 +37,7 @@ Helpful tools for generating and formatting text:
 - `random_string(length)` → Generates a random alphanumeric string of a given length
 
 ### 📧 Email Validation
-The `is_email()` function validates if a string is a properly formatted email address:
-
-```python
-from pystringtoolkit.validators import is_email
-
-# Check if string is valid email
-is_email("user@example.com")  # Returns True
-is_email("invalid.email@")    # Returns False
-```
+The `is_email()` → function validates if a string is a properly formatted email address
 
 ---
 
